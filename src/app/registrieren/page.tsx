@@ -33,8 +33,7 @@ type="text"
   [&:not([data-twe-input-placeholder-active])]:placeholder:opacity-0
  '/> 
  <label
-              for="exampleFormControlInput2"
-              class="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
+               className="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
               >Nachname
             </label>
 </div>
@@ -56,8 +55,7 @@ type="text"
   [&:not([data-twe-input-placeholder-active])]:placeholder:opacity-0
  '/> 
  <label
-              for="exampleFormControlInput2"
-              class="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
+               className="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
               > Vorname
             </label>
 </div>
@@ -78,8 +76,7 @@ type="text"
   [&:not([data-twe-input-placeholder-active])]:placeholder:opacity-0
  '/> 
  <label
-              for="exampleFormControlInput2"
-              class="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
+               className="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
               > E-Mail-Adresse
             </label>
 </div>
@@ -99,8 +96,7 @@ type="password"
   [&:not([data-twe-input-placeholder-active])]:placeholder:opacity-0
  '/> 
  <label
-              for="exampleFormControlInput2"
-              class="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
+               className="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
               >Passwort
             </label>
 </div>
@@ -120,8 +116,7 @@ type="text"
   [&:not([data-twe-input-placeholder-active])]:placeholder:opacity-0
  '/> 
  <label
-              for="exampleFormControlInput2"
-              class="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
+               className="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
               >Straße
             </label>
 </div>
@@ -142,8 +137,7 @@ type="text"
   [&:not([data-twe-input-placeholder-active])]:placeholder:opacity-0
  '/> 
  <label
-              for="exampleFormControlInput2"
-              class="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
+               className="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
               > Hausnummer
             </label>
 </div>
@@ -163,8 +157,7 @@ type="text"
   [&:not([data-twe-input-placeholder-active])]:placeholder:opacity-0
  '/> 
  <label
-              for="exampleFormControlInput2"
-              class="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
+               className="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
               >Postleizahl
             </label>
 </div>
@@ -184,8 +177,7 @@ type="text"
   [&:not([data-twe-input-placeholder-active])]:placeholder:opacity-0
  '/> 
  <label
-              for="exampleFormControlInput2"
-              class="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
+               className="pointer-events-none bg-white absolute left-10 top-8 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
               >Stadt
             </label>
 </div>

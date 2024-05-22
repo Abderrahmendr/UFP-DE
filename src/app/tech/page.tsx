@@ -7,10 +7,10 @@ import { FaMobileAlt } from "react-icons/fa";
 
 function tech() {
   return (
-    <div>
+    <div className='  '>
       <h1 className='absolute   top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 pb-14  font-extrabold text-3xl underline-[#04cecf]   border-b-2  border-[#04cecf] '>IT Produkts und Services</h1>
   
-  <div className='flex pt-72  m-20 gap-20 justify-center'>
+  <div className='flex pt-72  sm:grid sm:grid-cols-2 md:grid md:grid-cols-3 lg:flex    m-20 gap-20 justify-center'>
       <a href="/#">
       <IoGameControllerOutline className='text-black text-3xl size-20 hover:scale-110' />
 <h1 className='text-black items-center text-xl m-2 font-extrabold '>Gaming</h1>
@@ -30,7 +30,7 @@ function tech() {
 
       <a href="/#">
 <img className='text-black text-3xl size-20 hover:scale-110'
-src="/#"/>
+src="/computer.jpg"/>
 <h1 className='text-black items-center text-xl m-2 -ml-6   font-extrabold flex'>Office Hardware</h1>
 
       </a>

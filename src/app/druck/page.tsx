@@ -11,7 +11,7 @@ function druck() {
 		  <h1 className='absolute   top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 pb-14  
 		  font-extrabold text-3xl underline-[#04cecf]   border-b-4  border-[#04cecf] '>Druck und Services</h1>
 	  
-	  <div className='flex pt-72  m-20 gap-20 justify-center'>
+	  <div className='flex pt-72   sm:grid sm:grid-cols-2 md:grid md:grid-cols-3 lg:flex  m-20 gap-20 justify-center'>
 		 
 	
 		  <a href="/#">

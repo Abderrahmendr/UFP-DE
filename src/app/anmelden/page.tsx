@@ -28,9 +28,7 @@ function anmelden() {
             className="block w-full px-4 py-2 border-2 border-slate-800 rounded bg-white text-black focus:outline-none focus:border-teal-700"
           />
          <label
-              for=" "
-              class="pointer-events-none bg-white absolute  ml-2 -mt-16 text-sm max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
-              > E-mail-Adresse
+               className="pointer-events-none bg-white absolute  ml-2 -mt-16 text-sm max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8]"> E-mail-Adresse
             </label>
         </div>
         <div className="relative z-0 mb-6">
@@ -42,9 +40,7 @@ function anmelden() {
             className="block w-full px-4 py-2 border-2 border-slate-800 rounded bg-white text-black focus:outline-none focus:border-teal-700"
           />
          <label
-              for=" "
-              class="pointer-events-none bg-white absolute ml-2 -mt-16 text-sm max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] motion-reduce:transition-none dark:text-neutral-400 dark:peer-focus:text-primary"
-              > Passwort
+               className="pointer-events-none bg-white absolute ml-2 -mt-16 text-sm max-w-[90%] origin-[0_0] truncate pt-[0.0rem] pl-2 text-md leading-[2.15] text-neutral-500 transition-all duration-200 ease-out peer-focus:-translate-y-[1.15rem] peer-focus:scale-[0.8] peer-focus:text-primary peer-data-[twe-input-state-active]:-translate-y-[1.15rem] peer-data-[twe-input-state-active]:scale-[0.8] "> Passwort
             </label>
           <p className="text-right pt-2 pr-4 text-black">Passwort vergessen?</p>
         </div>
