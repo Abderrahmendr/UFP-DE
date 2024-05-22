@@ -1,0 +1,14 @@
+nav {
+	display: none;
+  }
+  
+  /* Show the navbar when the .responsive_nav class is added */
+  nav.responsive_nav {
+	display: flex; /* Or any other display type you prefer */
+	flex-direction: column;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: white; /* Adjust as necessary */
+  }
