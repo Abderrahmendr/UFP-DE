@@ -1,4 +1,5 @@
 {
+  "homepage":"http://Abderrahmendr.github.io/ufp-de",
   "name": "ufp",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +12,6 @@
     "lint": "next lint"
     },
   "dependencies": {
-    "homepage":"http://Abderrahmendr.github.io/ufp-de",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@next/font": "^14.2.3",
