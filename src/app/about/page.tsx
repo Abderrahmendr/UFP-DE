@@ -12,10 +12,10 @@ function about() {
     <div className="container mx-auto space-y-12">
        
 		<div className="flex flex-col overflow-hidden rounded-md shadow-sm lg:flex-row">
-			<img src="/UFP_Logo.jpg" alt="" className="h-80   aspect-video" />
+			<img src="/UFP_Logo.jpg" alt="" className="h-80   mt-20 aspect-video" />
 			<div className="flex flex-col justify-center flex-1 p-6 ">
- 				<h2 className="text-3xl font-bold">Historie </h2>
-				<p className="my-6 dark:text-gray-600">
+ 				<h2 className="text-3xl text-white font-bold">Historie </h2>
+				<p className="my-6 text-white">
 
                 Im Jahre 1981 wurde die UFP (Union Francaise de Papeterie) als Handelsgesellschaft für PBS-Produkte gegründet. Zunehmend spezialisierte sich UFP auf den Bereich Druckersupplies und Speichermedien und schloss im Jahre 1987 bereits den ersten Direktvertrag mit IBM. 1994 begann die europäische Expansion.
 

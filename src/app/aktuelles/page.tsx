@@ -22,7 +22,6 @@ function aktuelles() {
     </div>
   </div>
 
-
   <div className="flex flex-col overflow-hidden rounded-md shadow-sm lg:flex-row-reverse">
   <span className=' absolute   left-14 ml-16  '>01. April 2023</span>
 
@@ -32,7 +31,7 @@ function aktuelles() {
        <h2 className="text-3xl font-bold ml-16">   Neue Vertriebsleitung bei UFP
 
  </h2>
-      <p className="my-6 dark:text-gray-600   ml-16">
+      <p className="my-6   ml-16">
  
       Markus Dierkes hat ab dem 01. April 2023 die Gesamtvertriebsleitung für den Bereich Handel übernommen.
 

@@ -1,12 +1,12 @@
 import React from 'react'
 
-function repeater() {
+function repeater  () {
   return (
     <div className='flex justify-center items-center mt-16 mb-10 '>
     <a href="#" className="group relative block overflow-hidden ">
       
       <img
-      src="/repeater.jpg"
+      src="/rep.jpg"
          alt=""
         className="h-64 w-full  object-cover transition duration-500 group-hover:scale-105 sm:h-72"
       />

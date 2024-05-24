@@ -111,7 +111,7 @@ function products() {
 					<img
 						class="absolute inset-0 object-scale-down h-72 w-96 
 								w-full h-full group-hover:opacity-50 rounded-lg  shadow-2xl  shadow-gray-600 "
-						src="/repeater.jpg"
+						src="/rep.jpg"
 					/>
 					<div class="relative p-5">
 						<div class="mt-40">
