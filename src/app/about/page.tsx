@@ -33,7 +33,7 @@ zur UFP-Gruppe mit Sitz in Paris und Standorten in Großbritannien, Spanien, Ös
 			<img src="/UFP_Karte_Europa_2024.jpg" alt="" className="h-80 dark:bg-gray-500 aspect-video contain" />
 			<div className="flex flex-col justify-center flex-1 p-6 dark:bg-gray-50">
  				<h2 className="text-3xl font-bold">   UFP Deutschland GmbH </h2>
-				<p className="my-6 dark:text-gray-600   ml-16">
+				<p className="my-6   ml-16">
               <MdOutlinePlace className='flex justify-center items-center size-9 mb-4 ml-8' />
 
                  René Wolfrum <br/> 
