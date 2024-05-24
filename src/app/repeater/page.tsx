@@ -1,6 +1,6 @@
 import React from 'react'
 
-function tastatur() {
+function repeater() {
   return (
     <div className='flex justify-center items-center mt-16 mb-10 '>
     <a href="#" className="group relative block overflow-hidden ">
@@ -24,4 +24,4 @@ function tastatur() {
         </div>  )
 }
 
-export default tastatur
+export default repeater

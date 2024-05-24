@@ -6,7 +6,7 @@ function aktenvernichter() {
     <a href="#" className="group relative block overflow-hidden ">
       
       <img
-      src="/aktenvernichter.jpg"
+      src="/AKTENVERNICHTER.jpg"
          alt=""
         className="h-64 w-full  object-cover transition duration-500 group-hover:scale-105 sm:h-72"
       />

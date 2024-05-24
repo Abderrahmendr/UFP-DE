@@ -102,7 +102,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/Oki.png"
+            src="/OKI.png"
             alt="Oki"
             width={100} 
             height={100} 

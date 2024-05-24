@@ -47,7 +47,7 @@ Bei all der Sucherei sollten wir uns gegenseitig nicht verpassen. Schau doch mal
                     </a>
 			</div>
 		</div>
-		<div className="flex flex-col overflow-hidden rounded-md shadow-sm lg:flex-row">
+		<div className="flex flex-col overflow-hidden rounded-md shadow-sm lg:flex-row-reverse">
 			<img src="/Neomounts.jpg" alt="" 
 			className="h-80 dark:bg-gray-500 aspect-video" />
 			<div className="flex flex-col justify-center flex-1 p-6 dark:bg-gray-50">

@@ -7,13 +7,13 @@ function about() {
   return (
     <div>
         
-<section className="p-4 lg:p-8 w-full  bg-slate-900 text-white">
+<section className="p-4 lg:p-8 w-full  bg-slate-900 ">
   
     <div className="container mx-auto space-y-12">
        
 		<div className="flex flex-col overflow-hidden rounded-md shadow-sm lg:flex-row">
-			<img src="/UFP_Logo.jpg" alt="" className="h-80 dark:bg-gray-500 aspect-video" />
-			<div className="flex flex-col justify-center flex-1 p-6 dark:bg-gray-50">
+			<img src="/UFP_Logo.jpg" alt="" className="h-80   aspect-video" />
+			<div className="flex flex-col justify-center flex-1 p-6 ">
  				<h2 className="text-3xl font-bold">Historie </h2>
 				<p className="my-6 dark:text-gray-600">
 

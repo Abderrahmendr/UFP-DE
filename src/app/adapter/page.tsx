@@ -6,7 +6,7 @@ function adapter() {
 <a href="#" className="group relative block overflow-hidden ">
   
   <img
-  src="/d-link.jpg"
+  src="/link.jpg"
      alt=""
     className="h-64 w-full  object-cover transition duration-500 group-hover:scale-105 sm:h-72"
   />
