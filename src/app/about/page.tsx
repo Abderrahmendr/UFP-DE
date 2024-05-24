@@ -12,7 +12,7 @@ function about() {
     <div className="container mx-auto space-y-12">
        
 		<div className="flex flex-col overflow-hidden rounded-md shadow-sm lg:flex-row">
-			<img src="/ufp_logo.jpg" alt="" className="h-80 dark:bg-gray-500 aspect-video" />
+			<img src="/UFP_Logo.jpg" alt="" className="h-80 dark:bg-gray-500 aspect-video" />
 			<div className="flex flex-col justify-center flex-1 p-6 dark:bg-gray-50">
  				<h2 className="text-3xl font-bold">Historie </h2>
 				<p className="my-6 dark:text-gray-600">

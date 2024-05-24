@@ -8,7 +8,7 @@ import Image from 'next/image'
   <div className="flex justify-center items-center w-full min-h-full  ">
     <Image 
       className="opacity-20"
-      src="/UFP_logo.png" 
+      src="/UFP_Logo.png" 
       alt="UFP Logo" 
       width={150} 
       height={150} 
@@ -22,7 +22,7 @@ import Image from 'next/image'
       <Marquee className="overflow-y-hidden pl-20 gap-x-20 space-x-[10px]">
         <a href="#">
           <Image
-            src="/panasonic.png"
+            src="/Panasonic.png"
             alt="Panasonic"
             width={100} 
             height={100} 
@@ -30,7 +30,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/hp.png"
+            src="/HP.png"
             alt="HP"
             width={100} 
             height={100} 
@@ -38,7 +38,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/printmate.png"
+            src="/Printmate.png"
             alt="Printmate"
             width={100} 
             height={100} 
@@ -46,7 +46,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/printronix.png"
+            src="/Printronix.png"
             alt="Printronix"
             width={100} 
             height={100} 
@@ -54,7 +54,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/quantum.png"
+            src="/Quantum.png"
             alt="Quantum"
             width={100} 
             height={100} 
@@ -62,7 +62,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/samsung.png"
+            src="/Samsung.png"
             alt="Samsung"
             width={100} 
             height={100} 
@@ -70,7 +70,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/ricoh.png"
+            src="/Ricoh.png"
             alt="Ricoh"
             width={100} 
             height={100} 
@@ -78,7 +78,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/sharp.png"
+            src="/Sharp.png"
             alt="Sharp"
             width={100} 
             height={100} 
@@ -86,7 +86,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/toshiba.png"
+            src="/Toshiba.png"
             alt="Toshiba"
             width={100} 
             height={100} 
@@ -94,7 +94,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/olivetti.png"
+            src="/Olivetti.png"
             alt="Olivetti"
             width={100} 
             height={100} 
@@ -102,7 +102,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/oki.png"
+            src="/Oki.png"
             alt="Oki"
             width={100} 
             height={100} 
@@ -110,7 +110,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/lexmark.png"
+            src="/Lexmark.png"
             alt="Lexmark"
             width={100} 
             height={100} 
@@ -118,7 +118,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/kodak.png"
+            src="/Kodak.png"
             alt="Kodak"
             width={100} 
             height={100} 
@@ -126,7 +126,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/canon-1.png"
+            src="/Canon-1.png"
             alt="Canon"
             width={100} 
             height={100} 
@@ -134,7 +134,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/brother-1.png"
+            src="/Brother-1.png"
             alt="Brother"
             width={100} 
             height={100} 
@@ -142,7 +142,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/dlink.png"
+            src="/Dlink.png"
             alt="D-Link"
             width={100} 
             height={100} 
@@ -150,7 +150,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/apple.png"
+            src="/Apple.png"
             alt="Apple"
             width={100} 
             height={100} 
@@ -158,7 +158,7 @@ import Image from 'next/image'
         </a>
         <a href="#">
           <Image
-            src="/dell.png"
+            src="/Dell.png"
             alt="Dell"
             width={100} 
             height={100} 

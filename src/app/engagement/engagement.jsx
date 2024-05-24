@@ -6,7 +6,7 @@ function engagement() {
        <div class=" flex justify-center items-center  p-2   ">
 			<img 
 			className="opacity-20 mr-8"
-			src="/UFP_logo.png" 
+			src="/UFP_Logo.png" 
 			alt="" />
 			<p className="flex justify-center items-center -ml-44 mt-12  text-3xl pb-16 font-extrabold
 			
@@ -48,7 +48,7 @@ Bei all der Sucherei sollten wir uns gegenseitig nicht verpassen. Schau doch mal
 			</div>
 		</div>
 		<div className="flex flex-col overflow-hidden rounded-md shadow-sm lg:flex-row">
-			<img src="/neomounts.jpg" alt="" 
+			<img src="/Neomounts.jpg" alt="" 
 			className="h-80 dark:bg-gray-500 aspect-video" />
 			<div className="flex flex-col justify-center flex-1 p-6 dark:bg-gray-50">
  				<h3 className="text-3xl font-bold">Neomounts 𝗦𝗰𝗵𝗿𝗲𝗶𝗯𝘁𝗶𝘀𝗰𝗵𝗵𝗮𝗹𝘁𝗲𝗿𝘂𝗻𝗴𝗲𝗻 – 𝗱𝗲𝗿 „𝗡𝗘𝗫𝗧-𝗟𝗲𝘃𝗲𝗹“ </h3>

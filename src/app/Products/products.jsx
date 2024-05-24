@@ -6,6 +6,8 @@ function products() {
 		<div className="bg-white w-full xs:grid-cols-1  justify-center items-center -mt-64 m-8 overflow-hidden   " >
 			<div class=" flex justify-center items-center  p-2  xs:mb-3 ">
 			<img 
+			src="/UFP_Logo.png" 
+			alt="UFP Logo" 
 			className="opacity-20"
 			src="/UFP_logo.png" 
 			alt="" />
@@ -163,7 +165,7 @@ function products() {
 								<div class="p-2">
 									<p class="text-lg text-white">
 										Laserdruck <br/>
-										RICOH PC200W
+										Ricoh PC200W
 									</p>
 									<button
 										class="px-4 py-2 text-sm 
@@ -191,7 +193,7 @@ function products() {
 					<img
 						class="absolute inset-0 object-scale-down h-72 w-96 
 								w-full h-full group-hover:opacity-50 rounded-lg  shadow-2xl  shadow-gray-600 "
-						src="/PAPIER .jpg"
+						src="/papier.jpg"
 					/>
 					<div class="relative p-5">
 						<div class="mt-40">
@@ -226,7 +228,7 @@ function products() {
 			<div class=" relative  rounded-xl mb-1 hover:shadow-md transition hover:-translate-y-8   ">
 				<a
 					class=" relative block   w-60     rounded-lg  bg-gray-900  group"
-					href="/gamingclavier"
+					href="/tastatur"
 				>
 					<img
 						class="absolute inset-0 object-scale-down h-72 w-96 
@@ -244,8 +246,8 @@ function products() {
 							>
 								<div class="p-2">
 									<p class="text-lg text-white">
-									NACON TASTATUR <br/>
-									GAMING TASTATUR
+									Nacon Tastaur <br/>
+									Gaming Tastaur
 									</p>
 									<button
 										class="px-4 py-2 text-sm 
@@ -283,8 +285,8 @@ function products() {
 							>
 								<div class="p-2">
 									<p class="text-lg text-white">
-									BARCODESCANNER  
-									GRANIT
+									Barcodescanner<br/>
+									Granit
 									</p>
 									<button
 										class="px-4 py-2 text-sm 
@@ -322,8 +324,8 @@ function products() {
 							>
 								<div class="p-2">
 									<p class="text-lg text-white">
-										HP RDX <br/>
-										WECHSELFESTPLATTE 
+									 Etikettendrucker<br/>
+										Brother QL1100C 
 									</p>
 									<button
 										class="px-4 py-2 text-sm 

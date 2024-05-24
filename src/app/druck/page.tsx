@@ -16,7 +16,7 @@ function druck() {
 	
 		  <a href="/#">
 	<img className='text-black text-3xl size-20 hover:scale-110'
-	src="/ink-icon.png"/>
+	src="/ink.png"/>
 	<h1 className='text-black items-center text-xl m-2 ml-8   font-extrabold flex'>Ink</h1>
 	
 		  </a>
@@ -30,13 +30,13 @@ function druck() {
 		
 		  <a href="/#">
 		  <img className='text-black text-3xl ml-5 size-20 hover:scale-110'
-		  src="/paper-media.png"/> 
+		  src="/paper.png"/> 
 		  <h1 className='text-black items-center text-xl m-2 font-extrabold'>Druckmedien</h1>
 	
 		  </a>
 		  <a href="/#">
 		  <img className='text-black text-3xl ml-8 size-20 hover:scale-110'
-		  src="/toner-icon.png"/> 
+		  src="/toner.png"/> 
 		  <h1 className='text-black items-center text-xl m-2 font-extrabold'>Speichernmedien</h1>
 	
 		  </a>

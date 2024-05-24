@@ -2,6 +2,10 @@ import React from 'react'
 import { IoGameControllerOutline } from "react-icons/io5";
 import { IoMdLaptop } from "react-icons/io";
 import { FaMobileAlt } from "react-icons/fa";
+import { RiComputerLine } from "react-icons/ri";
+import { BsHddNetworkFill } from "react-icons/bs";
+import { SiGooglecloudstorage } from "react-icons/si";
+
 
 
 
@@ -24,28 +28,27 @@ function tech() {
 
       <a href="/handy">
       <FaMobileAlt className='text-black text-3xl size-20 hover:scale-110' />
-      <h1 className='text-black items-center text-xl m-2 mr-10  font-extrabold'>Handy</h1>
+      <h1 className='text-black items-center text-xl m-2    font-extrabold'>Handy</h1>
 
       </a>
 
       <a href="/#">
-<img className='text-black text-3xl size-20 hover:scale-110'
-src="/computer.jpg"/>
-<h1 className='text-black items-center text-xl m-2 -ml-6   font-extrabold flex'>Office Hardware</h1>
+<RiComputerLine className='text-black text-3xl ml-8 size-20 hover:scale-110' />
+<h1 className='text-black items-center text-xl m-2    font-extrabold flex'>Office Hardware</h1>
 
       </a>
       <a href="/#">
-      <img className='text-black text-3xl size-20 hover:scale-110'
-      src="/network.jpg"/> 
-      <h1 className='text-black items-center text-xl m-2 -ml-3  font-extrabold'>Networking</h1>
+   
+<BsHddNetworkFill  className='text-black text-3xl size-20 hover:scale-110'/>
+<h1 className='text-black items-center text-xl m-2 -ml-3  font-extrabold'>Networking</h1>
 
       </a>
 
     
       <a href="/#">
-      <img className='text-black text-3xl ml-5 size-20 hover:scale-110'
-      src="/icon-hdd.jpg"/> 
-      <h1 className='text-black items-center text-xl m-2 font-extrabold'>Storage Media</h1>
+      <SiGooglecloudstorage       className='text-black text-3xl ml-5 size-20 hover:scale-110' />
+
+       <h1 className='text-black items-center text-xl m-2 font-extrabold'>Storage Media</h1>
 
       </a>
 
