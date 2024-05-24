@@ -9,7 +9,7 @@ function aktuelles() {
     <h1 className='flex m-10  mb-5 p-10 hover:cursor-pointer   border-b-2 border-[#04cecf] justify-center items-center text-3xl font-extrabold'>Pressetexte und Presseberichte</h1>
   <div className="flex  flex-col overflow-hidden rounded-md shadow-sm lg:flex-row">
     
-    <img src="/Asus_Presse_KW17_2024_Blog.webp" alt="" className="h-80 mr-10 dark:bg-gray-500 aspect-video" />
+    <img src="/Asus_Presse_KW17_2024_Blog.webp" alt="" className="h-80 mr-10 mt-10 dark:bg-gray-500 aspect-video" />
     <span className=' absolute   right-6'>25. APRIL 2024</span>
 
     <div className="flex flex-col justify-center flex-1 p-6 mt-4 ">
