@@ -9,8 +9,7 @@ function products() {
 			src="/UFP_Logo.png" 
 			alt="UFP Logo" 
 			className="opacity-20"
-			src="/UFP_logo.png" 
-			alt="" />
+ 			 />
 			<p className="flex justify-center items-center -ml-44 mt-12  text-3xl pb-16 font-extrabold
 			
 			
